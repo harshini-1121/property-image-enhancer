@@ -1,0 +1,11 @@
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+output/
+temp_input.jpg
+temp_mask.png
+
+.DS_Store
